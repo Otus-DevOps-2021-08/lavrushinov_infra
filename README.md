@@ -2,8 +2,8 @@
 lavrushinov Infra repository
 
 Данные для подключения
-bastion 51.250.7.86
-someinternalhost 10.128.0.16
+bastion_IP 51.250.7.86
+someinternalhost_IP 10.128.0.16
 WEB-интерфейс pritunl: https://51.250.7.86
 
 Для проброса ssh можно использовать alias:
